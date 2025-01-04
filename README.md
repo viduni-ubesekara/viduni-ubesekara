@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an IT undergraduate at the **Sri Lanka Institu
 - 🛠 **Skills**: Programming, Frontend development, App development, UI/UX designing  
 - 🌱 **Currently Learning**: React.js, Angular, Tailwind CSS
 - 💡 **Interests**: Web Development, Data Science, Business Analytics 
-- 📫 **Contact Me**: viduniubesekara@gmail.com | [LinkedIn Profile](www.linkedin.com/in/viduni-ubesekara-789466235)  
+- 📫 **Contact Me**: viduniubesekara@gmail.com |[LinkedIn](http://www.linkedin.com/in/viduni-ubesekara-789466235) 
 
 ---
 
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm an IT undergraduate at the **Sri Lanka Institu
 
 - 🌐 [Your Portfolio](#)
 - 💼 [LinkedIn](http://www.linkedin.com/in/viduni-ubesekara-789466235)
-- 📧 Email: [Your Email](viduniubbesekara@gmail.com)
+- 📧 Email: viduniubbesekara@gmail.com
 
 
 
