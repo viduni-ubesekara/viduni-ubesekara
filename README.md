@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hello, I'm Viduni!
 
-<!--
-**viduni-ubesekara/viduni-ubesekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an IT undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)**, passionate about leveraging technology to create innovative solutions to real-world problems. 🌟
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+- 🎓 **Education**: IT Undergraduate at SLIIT  
+- 🛠 **Skills**: Programming, Frontend development, App development, UI/UX designing  
+- 🌱 **Currently Learning**: React.js, Angular, Tailwind CSS
+- 💡 **Interests**: Web Development, Data Science, Business Analytics 
+- 📫 **Contact Me**: viduniubesekara@gmail.com | [LinkedIn Profile](www.linkedin.com/in/viduni-ubesekara-789466235)  
+
+---
+
+
+## 🛠️ Technologies & Tools  
+| **Languages**                                                                                      | **Tools & Platforms**                                                                                      | **Frameworks & Libraries**                                                                                   |  
+|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|  
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)             | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)       | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)           |  
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)    | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)      |  
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)    | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)    |  
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |  
+| ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)             | ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)       |                                                                                                               |  
+
+
+
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduni-ubesekara&show_icons=true&theme=radical)
+
+## 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viduni-ubesekara&layout=compact&theme=radical)
+
+
+---
+
+## 📫 How to reach me
+
+- 🌐 [Your Portfolio](#)
+- 💼 [LinkedIn](http://www.linkedin.com/in/viduni-ubesekara-789466235)
+- 📧 Email: [Your Email](viduniubbesekara@gmail.com)
+
+
+
+### ✨ Fun Fact:
+I love solving puzzles!<br/>
+I'm a big fan of sci-fi movies.
