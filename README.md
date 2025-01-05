@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm an IT undergraduate at the **Sri Lanka Institu
 
 ## 📫 How to reach me
 
-- 🌐 [Your Portfolio](#)
+- 🌐 [My Portfolio](#)
 - 💼 [LinkedIn](http://www.linkedin.com/in/viduni-ubesekara-789466235)
 - 📧 Email: viduniubbesekara@gmail.com
 
