@@ -31,6 +31,13 @@ Welcome to my GitHub profile! I'm an IT undergraduate at the **Sri Lanka Institu
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduni-ubesekara&show_icons=true&theme=radical)
 
+## 🌟 Stats & Achievements  
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=viduni-ubesekara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=viduni-ubesekara&margin-w=5&margin-h=5&column=7&theme=gruvbox" alt="GitHub Trophy" />  
+</p>
+
+
 ## 📈 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viduni-ubesekara&layout=compact&theme=radical)
 
