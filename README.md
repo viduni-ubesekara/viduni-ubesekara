@@ -1,3 +1,15 @@
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=25&duration=2000&pause=2000&color=CCF7E3&center=true&vCenter=true&width=1000&lines=Welcome+to+my+portfolio...!+Click+the+image+below+to+explore.">
+
+<!-- Portfolio Image and Link -->
+<p align="center">
+  <a href="https://viduniubesekara.netlify.app/">
+    <img alt="Viduni Ubesekara Portfolio" width="80%" height="auto" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/my%20portfolio%20new.png">
+  </a>
+</p>
+
+
+
 # 👋 Hello, I'm Viduni!
 
 Welcome to my GitHub profile! I'm an IT undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)**, passionate about leveraging technology to create innovative solutions to real-world problems. 🌟
