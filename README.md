@@ -4,7 +4,7 @@
 <!-- Portfolio Image and Link -->
 <p align="center">
   <a href="https://viduniubesekara.netlify.app/">
-    <img alt="Viduni Ubesekara Portfolio" width="80%" height="auto" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/my%20portfolio%20new.png">
+    <img alt="Viduni Ubesekara Portfolio" width="80%" height="auto" src="https://github.com/viduni-ubesekara/viduni-ubesekara/blob/1997ea68f4ad074fc147874f0bf79ff74bf70a3b/Screenshot%202025-07-03%20164143.png">
   </a>
 </p>
 
